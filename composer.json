@@ -4,6 +4,7 @@
     "type": "bolt-extension",
     "keywords": [ "twig", "readtime", "filter" ],
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "bolt/bolt": "^3.0"
     },
