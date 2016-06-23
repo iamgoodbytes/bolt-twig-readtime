@@ -3,6 +3,7 @@
     "description": "A simple twig filter that shows the average read time for a blog post",
     "type": "bolt-extension",
     "keywords": [ "twig", "readtime", "filter" ],
+    "minimum-stability": "dev",
     "require": {
         "bolt/bolt": "^3.0"
     },
